@@ -2,4 +2,6 @@
 title = "Contact"
 +++
 
-This will be our contact page !
+### EVOKE
+
+Ping me at **[@EVOKE](https://t.me/evoke)**
