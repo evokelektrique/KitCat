@@ -22,6 +22,6 @@ highlight_theme = "agola-dark"
 
 links = [
     { title = "Blog", href = "/blog" },
-    { title = "GitHub", href = "https://github.com" },
+    { title = "GitHub", href = "https://github.com/evokelektrique/KitCat" },
     { title = "Mail", href = "mailto:example@example.com" },
 ]
