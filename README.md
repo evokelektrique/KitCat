@@ -1,2 +1,2 @@
-Hai :3
-dis is a silly website made by silly "so-called" developers, @evokelektrique and @femdiya (eventually, @femdiya doesn't know shit about programming) using [Zola](https://getzola.org/) and the theme [Hook](https://github.com/InputUsername/zola-hook).
+- Hai :3
+- dis is a silly website made by silly "so-called" developers, [@evokelektrique](https://github.com/evokelektrique) and [@femdiya](https://github.com/femdiya) (eventually, @femdiya doesn't know shit about programming) using [Zola](https://getzola.org/) and the theme [Hook](https://github.com/InputUsername/zola-hook).
