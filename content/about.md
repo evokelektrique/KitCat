@@ -2,4 +2,8 @@
 title = "About"
 +++
 
-Hook is a theme for [Zola](https://getzola.org), a static site generator.
+### EVOKE
+
+The web wizard who turns bugs into _innovative user interactions_ while quietly consulting Dr. Google for troubleshooting advice.
+
+Ping me at **[@EVOKE](https://t.me/evoke)**
